@@ -13,4 +13,4 @@ maintain these packages.
 These packages are now maintained by the Flutter team in the
 [flutter/packages](https://github.com/flutter/packages) repository.
   * [package:flutter_svg](https://github.com/flutter/packages/tree/main/third_party/packages/flutter_svg)
-  * [package:flutter_svg_test](https://github.com/flutter/packages/tree/main/third_party/packages/flutter_svg_test)
+
